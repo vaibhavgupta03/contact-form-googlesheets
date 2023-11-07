@@ -30,7 +30,7 @@ Please make sure to update tests as appropriate.
 - GitHub: [@vaibhavgupta03](https://github.com/vaibhavgupta03)
 - Email: vaibhavgupta6393@gmail.com
 - LinkedIn: [Vaibhav Gupta](https://www.linkedin.com/in/vaibhav-gupta-45a340225/)
-- Twitter: [@VaibhavGupta_090](https://twitter.com/VaibhavGupta_090)
+- Twitter: [VaibhavGupta](https://twitter.com/VaibhavGupta_090)
 
 ## License
 MIT © [Vaibhav Gupta](https://github.com/vaibhavgupta03)
