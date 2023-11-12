@@ -10,7 +10,7 @@ form.addEventListener('submit', e => {
             console.log('Success!', response)
             msg.innerHTML = "Form submitted successfully!"
             setTimeout(function () {
-                msg.innerHTML = ""
+                msg.innerHTML = "";
             }, 5000)
             form.reset()
         })
